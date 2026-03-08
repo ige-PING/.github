@@ -1,4 +1,4 @@
-# IGE Calcul
+# IGE PING
 
 Welcome to the *scientific computing platform* at the Institut Géosciences et Environnement (IGE) of the Université Grenoble Alpes (UGA).
 

@@ -1,6 +1,6 @@
-# IGE PING
+# IGE-PING
 
-Welcome to the *scientific computing platform* at the Institut Géosciences et Environnement (IGE) of the Université Grenoble Alpes (UGA).
+Welcome to the *data and computing for geosciences innovation platform* at the Institut Géosciences et Environnement (IGE) of the Université Grenoble Alpes (UGA).
 
 Two unifying concepts motivate the existence of this community work: **open science** and **reproducible research**. Its ambition is to gather/create the human, documentary and material resources needed to simplify all aspects of scientific computing at the IGE.
 
